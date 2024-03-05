@@ -1,0 +1,4 @@
+cd - change directory
+rm - remove file
+rmdir - remove directory
+mkdir - make directory
