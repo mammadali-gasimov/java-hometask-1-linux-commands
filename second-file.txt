@@ -1,0 +1,2 @@
+git init - initialize git
+git push - push changes to remote repository
